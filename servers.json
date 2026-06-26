@@ -1,0 +1,14 @@
+{
+  "Servers": {
+    "1": {
+      "Name": "Itaú Challenge DB",
+      "Group": "Servers",
+      "Host": "postgres",
+      "Port": 5432,
+      "MaintenanceDB": "balance_db",
+      "Username": "admin_itau",
+      "SSLMode": "prefer",
+      "PasswordExecCommand": "echo 'itausecret123@@'"
+    }
+  }
+}
