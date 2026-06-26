@@ -1,7 +1,5 @@
 # Itaú Balance Query and Ingestion API
 
-## 🎯 Objetivo Geral do Projeto
-
 Esta aplicação é uma API de Missão Crítica (Core Banking) desenvolvida para gerenciar a **ingestão assíncrona** de transações financeiras em alta volumetria e a **exposição síncrona** do saldo bancário atualizado dos clientes. 
 
 ## Tabela de Conteúdo
