@@ -6,7 +6,8 @@ Este guia orienta o deploy simplificado e seguro de todo o ecossistema da aplica
 
 ### Passo 1: Conteinerização da Aplicação (Local ou CI/CD)
 * **Tecnologia:** Docker (Multi-stage Build).
-* **O que fazer:** * Criar um arquivo `Dockerfile` na raiz do projeto Java para compilar o código fonte e gerar uma imagem finalda aplicação.
+* **O que fazer:**
+  * Criar um arquivo `Dockerfile` na raiz do projeto Java para compilar o código fonte e gerar uma imagem finalda aplicação.
 
 ---
 
