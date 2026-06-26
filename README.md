@@ -1,2 +1,11 @@
-# itau-balance-query-api
-Itaú Software Engineer Challenge - Balance Query and Ingestion API
+# Itaú Balance Query and Ingestion API
+
+## 🎯 Objetivo Geral do Projeto
+
+Esta aplicação é uma API de Missão Crítica (Core Banking) desenvolvida para gerenciar a **ingestão assíncrona** de transações financeiras em alta volumetria e a **exposição síncrona** do saldo bancário atualizado dos clientes. 
+
+## Tabela de Conteúdo
+1. [Decisões Arquiteturais (ADRs)](./docs/decisoes_arquiteturais.md)
+2. [Como Rodar o Projeto](./docs/como-rodar-o-projeto.md)
+3. [Uso da API](./docs/uso-da-api.md)
+4. [Monitoramento](./docs/monitoramento.md)
