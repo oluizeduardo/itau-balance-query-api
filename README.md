@@ -8,3 +8,4 @@ Esta aplicação é uma API de Missão Crítica (Core Banking) desenvolvida para
 3. [Acessando o Banco de Dados](./docs/acessando-o-banco-de-dados.md)
 4. [Uso da API](./docs/uso-da-api.md)
 5. [Monitoramento](./docs/monitoramento.md)
+6. [CI/CD e Plano de Deploy em Produção](./docs/cicd-e-plano-de-deploy-em-producao.md)
